@@ -3,11 +3,13 @@
 Idee simpla, daca folosesti un link de afiliere de la mine de pe site, si cumperi ceva, nu o sa mai vezi reclame enervante pe site-ul meu.
 
 ### How it works
-* click pe affiliate link custom
+* click pe affiliate link, custom
 * memoram ip-ul, cookied (sa fie fair doar pe un pc)
 * 2parale isi face treaba 
 * verificam daca ip-ul se gaseste si la noi si la 2parale (profitshare din cate vad nu ofera astfel de date, email pending)
 * BOOM! daca totul e ok, nu ii mai aratam reclame, bannere, chestii, trestii.
+* ...
+* Profit!
 
 ### Probleme
 * pluginuri de ads
